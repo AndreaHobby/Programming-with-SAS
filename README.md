@@ -14,6 +14,7 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [Little SAS Book](https://amzn.to/2CR6URI)
 - [Learning SAS by Example: A Programmer's Guide](https://amzn.to/2UleDhU)
 - [Applied Statistics and the SAS Programming Language](https://amzn.to/2DFLOXW)
+- [Analysis of Observational Health Care Data Using SAS](https://www.amazon.com/Analysis-Observational-Health-Care-Using-ebook/dp/B00QMSGR9C/ref=sr_1_fkmrnull_1?keywords=sas+observational+research&qid=1556165643&s=gateway&sr=8-1-fkmrnull)
 
 #### SAS Certification 
 
