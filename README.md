@@ -32,6 +32,8 @@ Cleaning and transforming data for delivery of analytic datasets](http://support
 -[SAS Coding Guidelines](https://support.sas.com/resources/papers/proceedings/proceedings/sugi29/258-29.pdf)
 -[Best Practice Programming Techniques for SAS® Users](https://support.sas.com/resources/papers/proceedings17/0175-2017.pdf)
 -[Code Like It Matters: Writing Code That's Readable and Shareable](https://support.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2018/2520-2018.pdf)
+-[Top 10 SAS best programming practices](https://blogs.sas.com/content/sastraining/files/2013/07/Top-10-Best-SAS-programming-practices-short-summary-version.pdf)
+
 
 #### SAS Certification 
 
