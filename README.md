@@ -23,6 +23,10 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 
 #### Data Cleaning and Manipulation 
 - [Cody's Data Cleaning Techniques Using SAS](https://www.amazon.com/Codys-Cleaning-Techniques-Using-Third/dp/1629607967/ref=pd_sim_14_4/139-6334840-0482638?_encoding=UTF8&pd_rd_i=1629607967&pd_rd_r=b8a06da6-6710-11e9-b475-c358acaaf9b4&pd_rd_w=SF5KF&pd_rd_wg=iQwkK&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=HYPZNJCB222KAH9EW556&psc=1&refRID=HYPZNJCB222KAH9EW556)
+- [Data Cleaning 101](https://support.sas.com/resources/papers/proceedings/proceedings/sugi27/p057-27.pdf)
+- [Transforming Variables for Normality and Linearity –When, How, Why and Why Not's](http://support.sas.com/resources/papers/proceedings12/430-2012.pdf)
+- [SAS® Data Management Techniques:
+Cleaning and transforming data for delivery of analytic datasets](http://support.sas.com/resources/papers/proceedings13/540-2013.pdf)
 
 #### SAS Certification 
 
