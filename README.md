@@ -28,6 +28,9 @@ Please contribute to this list by pull request or contact me on Twitter @ahobby9
 - [SAS® Data Management Techniques:
 Cleaning and transforming data for delivery of analytic datasets](http://support.sas.com/resources/papers/proceedings13/540-2013.pdf)
 
+#### Style Guidelines
+-[SAS Coding Guidelines](https://support.sas.com/resources/papers/proceedings/proceedings/sugi29/258-29.pdf)
+
 #### SAS Certification 
 
 - [Courses to get SAS certified](https://www.sas.com/en_us/certification.html)
