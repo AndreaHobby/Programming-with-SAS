@@ -35,6 +35,9 @@ Cleaning and transforming data for delivery of analytic datasets](http://support
 - [Top 10 SAS best programming practices](https://blogs.sas.com/content/sastraining/files/2013/07/Top-10-Best-SAS-programming-practices-short-summary-version.pdf)
 - [Utilizing Best Practices with SAS and Macros made easy](https://www.sas.com/content/dam/SAS/en_ca/User%20Group%20Presentations/Saskatoon-User-Group/JoseeRanger-LacroixRanger-MacrosBP.pdf)
 
+####  Regression Analysis
+- [Multicollinearity: What Is It, Why Should We Care, and How Can It Be
+Controlled?](https://support.sas.com/resources/papers/proceedings17/1404-2017.pdf)
 
 #### SAS Certification 
 
