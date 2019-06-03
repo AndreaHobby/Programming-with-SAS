@@ -1,7 +1,7 @@
 # SAS Tools
 A list of resources of tools to assist with programming in SAS.
 
-Please contribute to this list by pull request or contact me on Twitter @ahobby9.
+Please contribute to this list by pull request.
 
 ## Table of Contents
 - [SAS](#sas)
