@@ -1,5 +1,5 @@
-# SAS Tools
-A list of resources of tools to assist with programming in SAS.
+# SAS Resources 
+A list of resources to assist with programming in SAS.
 
 Please contribute to this list by pull request.
 
