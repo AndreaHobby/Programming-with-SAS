@@ -27,7 +27,7 @@ Please contribute to this list by pull request.
 - [Transforming Variables for Normality and Linearity –When, How, Why and Why Not's](http://support.sas.com/resources/papers/proceedings12/430-2012.pdf)
 - [SAS® Data Management Techniques:
 Cleaning and transforming data for delivery of analytic datasets](http://support.sas.com/resources/papers/proceedings13/540-2013.pdf)
-
+- [An Easy-to-use SAS® Macro for a Descriptive Statistics Table](https://support.sas.com/resources/papers/proceedings17/0773-2017.pdf)
 
 #### Style Guidelines
 - [SAS Coding Guidelines](https://support.sas.com/resources/papers/proceedings/proceedings/sugi29/258-29.pdf)
