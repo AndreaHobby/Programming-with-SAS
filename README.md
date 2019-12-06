@@ -15,14 +15,18 @@ Please contribute to this list by pull request.
 - [Learning SAS by Example: A Programmer's Guide](https://amzn.to/2UleDhU)
 - [Applied Statistics and the SAS Programming Language](https://amzn.to/2DFLOXW)
 
+#### Macros
+- [Carpenter's Complete Guide to the SAS Macro Language](https://amzn.to/38dL3CD)
+- [SAS Macro Programming Made Easy, Third Edition](https://amzn.to/2E2tQyx)
+
 #### Healthcare Research
-- [Analysis of Observational Health Care Data Using SAS](https://www.amazon.com/Analysis-Observational-Health-Care-Using-ebook/dp/B00QMSGR9C/ref=sr_1_fkmrnull_1?keywords=sas+observational+research&qid=1556165643&s=gateway&sr=8-1-fkmrnull)
+- [Analysis of Observational Health Care Data Using SAS](https://amzn.to/33Sp7d1)
 - [SAS Programming with Medicare Administrative Data](https://www.amazon.com/SAS-Programming-Medicare-Administrative-Data/dp/1612903223/ref=pd_sim_14_1/139-6334840-0482638?_encoding=UTF8&pd_rd_i=1612903223&pd_rd_r=b8a06da6-6710-11e9-b475-c358acaaf9b4&pd_rd_w=SF5KF&pd_rd_wg=iQwkK&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=HYPZNJCB222KAH9EW556&psc=1&refRID=HYPZNJCB222KAH9EW556)
 - [Survival Analysis Using SAS: A Practical Guide](https://www.amazon.com/Survival-Analysis-Using-SAS-Practical/dp/1599946408/ref=pd_sim_14_2/139-6334840-0482638?_encoding=UTF8&pd_rd_i=1599946408&pd_rd_r=b8a06da6-6710-11e9-b475-c358acaaf9b4&pd_rd_w=SF5KF&pd_rd_wg=iQwkK&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=HYPZNJCB222KAH9EW556&psc=1&refRID=HYPZNJCB222KAH9EW556)
 - [Administrative Healthcare Data: A Guide to Its Origin, Content, and Application Using SAS](https://www.amazon.com/Administrative-Healthcare-Data-Content-Application/dp/1612908861/ref=pd_sim_14_3/139-6334840-0482638?_encoding=UTF8&pd_rd_i=1612908861&pd_rd_r=b8a06da6-6710-11e9-b475-c358acaaf9b4&pd_rd_w=SF5KF&pd_rd_wg=iQwkK&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=HYPZNJCB222KAH9EW556&psc=1&refRID=HYPZNJCB222KAH9EW556)
 
 #### Data Cleaning and Manipulation 
-- [Cody's Data Cleaning Techniques Using SAS](https://www.amazon.com/Codys-Cleaning-Techniques-Using-Third/dp/1629607967/ref=pd_sim_14_4/139-6334840-0482638?_encoding=UTF8&pd_rd_i=1629607967&pd_rd_r=b8a06da6-6710-11e9-b475-c358acaaf9b4&pd_rd_w=SF5KF&pd_rd_wg=iQwkK&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=HYPZNJCB222KAH9EW556&psc=1&refRID=HYPZNJCB222KAH9EW556)
+- [Cody's Data Cleaning Techniques Using SAS](https://amzn.to/2LHzlXF)
 - [Data Cleaning 101](https://support.sas.com/resources/papers/proceedings/proceedings/sugi27/p057-27.pdf)
 - [Transforming Variables for Normality and Linearity –When, How, Why and Why Not's](http://support.sas.com/resources/papers/proceedings12/430-2012.pdf)
 - [SAS® Data Management Techniques:
